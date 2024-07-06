@@ -1,4 +1,4 @@
-package com.shenyang.command;
+package com.shenyang.javaagent.command;
 
 import com.sun.management.HotSpotDiagnosticMXBean;
 

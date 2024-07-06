@@ -1,4 +1,4 @@
-package com.shenyang.command;
+package com.shenyang.javaagent.command;
 
 import java.lang.management.ManagementFactory;
 import java.lang.management.ThreadInfo;
