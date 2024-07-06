@@ -49,6 +49,9 @@
     </dependencies>
 
     <build>
+        <finalName>
+            shen-java-agent-plugin
+        </finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
